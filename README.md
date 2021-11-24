@@ -1,8 +1,11 @@
 ### Hi there 👋
+My Name Is "Dhan Dominic"
+
+Iam a Web Developer Mainly, And I Make Games and do Programming
+And a Bit of Electronics
 
 
-
-<a href="https://app.daily.dev/Wireot34"><img src="https://api.daily.dev/devcards/07969553cc8647d7a3ef291952fb4616.png?r=12n" width="400" alt="WireBot34's Dev Card"/></a>
+<a href="https://app.daily.dev/Wireot34"><img src="https://api.daily.dev/devcards/07969553cc8647d7a3ef291952fb4616.png?r=12n" width="200" alt="WireBot34's Dev Card"/></a>
 
 
 <!--
