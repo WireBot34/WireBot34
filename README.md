@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+<a href="https://app.daily.dev/Wireot34"><img src="https://api.daily.dev/devcards/07969553cc8647d7a3ef291952fb4616.png?r=12n" width="400" alt="WireBot34's Dev Card"/></a>
+
+
 <!--
 **WireBot34/WireBot34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
