@@ -23,7 +23,7 @@ And a Bit of Electronics
 
 
 <!-- This section you create this variables that are used above -->
-[website]: http://wirebot.epizy.com
+[website]: http://wirebot.epizy.com/
 [twitter]: https://twitter.com/wirebot34
 [instagram]: https://www.instagram.com/wirebot34
 
