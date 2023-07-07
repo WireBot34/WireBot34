@@ -10,7 +10,7 @@ And a Bit of Electronics
 
 
 - 🔭 I’m currently working on My Portfolio
-
+- 💻 Goint to collage, Course - Btech Cyber Security
 
 ## Connect with me:
 [<img align="left" alt="wirebot.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -26,6 +26,9 @@ And a Bit of Electronics
 [website]: http://wirebot.epizy.com/
 [twitter]: https://twitter.com/wirebot34
 [instagram]: https://www.instagram.com/wirebot34
+
+
+
 
 <!--
 **WireBot34/WireBot34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
