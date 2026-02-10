@@ -1,7 +1,7 @@
 ### Hi there 👋
 My Name Is "Dhan Dominic"
 
-A Web Developer, I am—games I create, programming I practice, and in electronics, some skill I possess
+A Web Developer, I am games I create, programming I practice, and in electronics, some skill I possess
 
 > “Do. Or do not. There is no try.”  
 > — Yoda, *Star Wars: The Empire Strikes Back*
@@ -13,7 +13,7 @@ A Web Developer, I am—games I create, programming I practice, and in electroni
 
 
 - 🔭 On a system to prevent the misuse of public surveillance, working I am
-- 💻 At college, studying I am — B.Tech in Cyber Security
+- 💻 At college, studying I am B.Tech in Cyber Security
 
 ## Connect with me:
 [<img align="left" alt="wirebot.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
