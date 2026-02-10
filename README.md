@@ -1,8 +1,10 @@
 ### Hi there 👋
 My Name Is "Dhan Dominic"
 
-Iam a Web Developer Mainly, And I Make Games and do Programming
-And a Bit of Electronics
+A Web Developer, I am—games I create, programming I practice, and in electronics, some skill I possess
+
+> “Do. Or do not. There is no try.”  
+> — Yoda, *Star Wars: The Empire Strikes Back*
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=wirebot34&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/wirebot34)
 
@@ -10,13 +12,13 @@ And a Bit of Electronics
 
 
 
-- 🔭 I’m currently working on a demo project <a href="https://landing-anim.onrender.com/">Pokemon</a>
-- 💻 Goint to collage, Course - Btech Cyber Security
+- 🔭 On a system to prevent the misuse of public surveillance, working I am
+- 💻 At college, studying I am — B.Tech in Cyber Security
 
 ## Connect with me:
 [<img align="left" alt="wirebot.epizy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="wirebot34 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="wirebot34 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" />][instagram]
 <br />
 
 
