@@ -4,6 +4,7 @@ My Name Is "Dhan Dominic"
 Iam a Web Developer Mainly, And I Make Games and do Programming
 And a Bit of Electronics
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=wirebot34&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true)](https://github.com/wirebot34)
 
 <a href="https://app.daily.dev/WireBot34"><img src="https://api.daily.dev/devcards/07969553cc8647d7a3ef291952fb4616.png?r=tps" width="230" alt="WireBot34's Dev Card"/></a>
 
